@@ -1,5 +1,5 @@
 body{
-  background-image: url("https://auto.ferrari.com/en_EN/wp-content/uploads/sites/5/2014/02/ferrari-official-web.jpg"); /* The image used */
+  background-image: url("http://zellox.com/wp-content/uploads/2016/05/image-background-color-4.jpg"); /* The image used */
   background-color: #cccccc; /* Used if the image is unavailable */
   height: 500px; /* You must set a specified height */
   background-position: center; /* Center the image */
@@ -10,6 +10,22 @@ body{
 h1 {
     color:black  ;
 } 
-p { color: white ; 
+p { color: gold ; 
+  font-family: 'Courgette', cursive;
   
 }
+
+#welcome {
+ border:1px solid;
+  background-color: pink; 
+   border-radius: 25px;
+  background-position: left top;
+  display:block;
+  margin-left:auto
+   margin-right:auto;
+  padding:20px;
+  width:399px;
+  height:200px
+    padding: 8px;
+}
+  
